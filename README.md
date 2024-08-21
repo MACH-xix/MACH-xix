@@ -1,8 +1,6 @@
-Hi, welcome to my page.
+NounsDAO
 
-NounsDAO is dope
-
-CC0 is the future
+CC0
 
 Nouns Esports 
 
